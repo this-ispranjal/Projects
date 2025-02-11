@@ -184,6 +184,7 @@ public class Test1 {
             System.out.println(" If you do not pay soon, your electricity will be cut!\n");
         } else {
             System.out.println(" Payment successful! Electricity bill paid in full.\n");
+            System.out.print("hello world    ");
         }
     }
 }
